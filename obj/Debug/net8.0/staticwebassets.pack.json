@@ -1,0 +1,337 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\Projects\\salian_project\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\salian_project.bundle.scp.css",
+      "PackagePath": "staticwebassets\\salian_project.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\assets\\avatars\\face-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\avatars\\face-1.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\assets\\avatars\\face-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\avatars\\face-2.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\assets\\avatars\\face-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\avatars\\face-3.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\assets\\avatars\\face-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\avatars\\face-4.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\assets\\avatars\\face-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\avatars\\face-5.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\assets\\avatars\\face-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\avatars\\face-6.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\assets\\avatars\\face-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\avatars\\face-7.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\assets\\avatars\\face-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\avatars\\face-8.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\assets\\images\\qrcode.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\qrcode.svg"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\assets\\products\\p1.jpg",
+      "PackagePath": "staticwebassets\\assets\\products\\p1.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\assets\\products\\p2.jpg",
+      "PackagePath": "staticwebassets\\assets\\products\\p2.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\assets\\products\\p3.jpg",
+      "PackagePath": "staticwebassets\\assets\\products\\p3.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\assets\\products\\p4.jpg",
+      "PackagePath": "staticwebassets\\assets\\products\\p4.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\css\\apexcharts.css",
+      "PackagePath": "staticwebassets\\css\\apexcharts.css"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\css\\app-dark.css",
+      "PackagePath": "staticwebassets\\css\\app-dark.css"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\css\\app-light.css",
+      "PackagePath": "staticwebassets\\css\\app-light.css"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\css\\app-rtl.css",
+      "PackagePath": "staticwebassets\\css\\app-rtl.css"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\css\\bootstrap-datepicker.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-datepicker.css"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\css\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\css\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\css\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\css\\daterangepicker.css"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\css\\dropzone.css",
+      "PackagePath": "staticwebassets\\css\\dropzone.css"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\css\\dropzone.min.css",
+      "PackagePath": "staticwebassets\\css\\dropzone.min.css"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\css\\feather.css",
+      "PackagePath": "staticwebassets\\css\\feather.css"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\css\\fullcalendar.css",
+      "PackagePath": "staticwebassets\\css\\fullcalendar.css"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\css\\jquery.steps.css",
+      "PackagePath": "staticwebassets\\css\\jquery.steps.css"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\css\\jquery.timepicker.css",
+      "PackagePath": "staticwebassets\\css\\jquery.timepicker.css"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\css\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\css\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\css\\quill.snow.css",
+      "PackagePath": "staticwebassets\\css\\quill.snow.css"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\css\\select2-bootstrap4.css",
+      "PackagePath": "staticwebassets\\css\\select2-bootstrap4.css"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\css\\select2.css",
+      "PackagePath": "staticwebassets\\css\\select2.css"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\css\\simplebar.css",
+      "PackagePath": "staticwebassets\\css\\simplebar.css"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\css\\uppy.min.css",
+      "PackagePath": "staticwebassets\\css\\uppy.min.css"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\data\\contacts.json",
+      "PackagePath": "staticwebassets\\data\\contacts.json"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\data\\eu.topo.json",
+      "PackagePath": "staticwebassets\\data\\eu.topo.json"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\fonts\\BZarBd.ttf",
+      "PackagePath": "staticwebassets\\fonts\\BZarBd.ttf"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\fonts\\BZiba.ttf",
+      "PackagePath": "staticwebassets\\fonts\\BZiba.ttf"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\fonts\\Serif_MRT.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Serif_MRT.ttf"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\fonts\\Talat_MRT.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Talat_MRT.ttf"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\fonts\\feather.eot",
+      "PackagePath": "staticwebassets\\fonts\\feather.eot"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\fonts\\feather.svg",
+      "PackagePath": "staticwebassets\\fonts\\feather.svg"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\fonts\\feather.ttf",
+      "PackagePath": "staticwebassets\\fonts\\feather.ttf"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\fonts\\feather.woff",
+      "PackagePath": "staticwebassets\\fonts\\feather.woff"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\image\\logo.png",
+      "PackagePath": "staticwebassets\\image\\logo.png"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\js\\Chart.min.js"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\js\\apexcharts.custom.js",
+      "PackagePath": "staticwebassets\\js\\apexcharts.custom.js"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\js\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\js\\apexcharts.min.js"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\js\\apps.js",
+      "PackagePath": "staticwebassets\\js\\apps.js"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\js\\bootstrap-datepicker.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap-datepicker.min.js"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\js\\config.js",
+      "PackagePath": "staticwebassets\\js\\config.js"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\js\\d3.min.js",
+      "PackagePath": "staticwebassets\\js\\d3.min.js"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\js\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\js\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\js\\datamaps-zoomto.js",
+      "PackagePath": "staticwebassets\\js\\datamaps-zoomto.js"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\js\\datamaps.all.min.js",
+      "PackagePath": "staticwebassets\\js\\datamaps.all.min.js"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\js\\datamaps.custom.js",
+      "PackagePath": "staticwebassets\\js\\datamaps.custom.js"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\js\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\js\\daterangepicker.js"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\js\\dropzone.min.js",
+      "PackagePath": "staticwebassets\\js\\dropzone.min.js"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\js\\fullcalendar.custom.js",
+      "PackagePath": "staticwebassets\\js\\fullcalendar.custom.js"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\js\\fullcalendar.js",
+      "PackagePath": "staticwebassets\\js\\fullcalendar.js"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\js\\gauge.min.js",
+      "PackagePath": "staticwebassets\\js\\gauge.min.js"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\js\\jquery.mask.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.mask.min.js"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\js\\jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.sparkline.min.js"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\js\\jquery.steps.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.steps.min.js"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\js\\jquery.stickOnScroll.js",
+      "PackagePath": "staticwebassets\\js\\jquery.stickOnScroll.js"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\js\\jquery.timepicker.js",
+      "PackagePath": "staticwebassets\\js\\jquery.timepicker.js"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\js\\moment.min.js"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\js\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\js\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\js\\quill.min.js",
+      "PackagePath": "staticwebassets\\js\\quill.min.js"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\js\\select2.min.js"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\js\\simplebar.min.js",
+      "PackagePath": "staticwebassets\\js\\simplebar.min.js"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\js\\tinycolor-min.js",
+      "PackagePath": "staticwebassets\\js\\tinycolor-min.js"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\js\\topojson.min.js",
+      "PackagePath": "staticwebassets\\js\\topojson.min.js"
+    },
+    {
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\js\\uppy.min.js",
+      "PackagePath": "staticwebassets\\js\\uppy.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.salian_project.props",
+      "PackagePath": "build\\salian_project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.salian_project.props",
+      "PackagePath": "buildMultiTargeting\\salian_project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.salian_project.props",
+      "PackagePath": "buildTransitive\\salian_project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.salian_project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

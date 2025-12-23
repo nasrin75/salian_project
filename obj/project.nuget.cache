@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "TibYMz7aI+s=",
+  "success": true,
+  "projectFilePath": "F:\\Projects\\salian_project\\salian_project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hassanpour.n\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\10.0.1\\microsoft.entityframeworkcore.tools.10.0.1.nupkg.sha512",
+    "C:\\Users\\hassanpour.n\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.22\\microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\hassanpour.n\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.22\\microsoft.netcore.app.host.win-x64.8.0.22.nupkg.sha512",
+    "C:\\Users\\hassanpour.n\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.22\\microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\hassanpour.n\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.22\\microsoft.windowsdesktop.app.ref.8.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
