@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4MzL/e7fu20Q+mi6FiE4AzBO56saWOSLdIk+OTpLNWc=",
+  "Hash": "benziUd8t3mtyWGFPB61qR4tfwFdCYAzqL8yQ5L5Pag=",
   "Source": "salian_project",
   "BasePath": "_content/salian_project",
   "Mode": "Default",
@@ -834,12 +834,12 @@
       "OriginalItemSpec": "wwwroot\\fonts\\feather.woff"
     },
     {
-      "Identity": "F:\\Projects\\salian_project\\wwwroot\\fonts\\Serif_MRT.ttf",
+      "Identity": "F:\\Projects\\salian_project\\wwwroot\\fonts\\Unique Light_MRT.ttf",
       "SourceId": "salian_project",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\Projects\\salian_project\\wwwroot\\",
       "BasePath": "_content/salian_project",
-      "RelativePath": "fonts/Serif_MRT.ttf",
+      "RelativePath": "fonts/Unique Light_MRT.ttf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -850,26 +850,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\Serif_MRT.ttf"
-    },
-    {
-      "Identity": "F:\\Projects\\salian_project\\wwwroot\\fonts\\Talat_MRT.ttf",
-      "SourceId": "salian_project",
-      "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\salian_project\\wwwroot\\",
-      "BasePath": "_content/salian_project",
-      "RelativePath": "fonts/Talat_MRT.ttf",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\Talat_MRT.ttf"
+      "OriginalItemSpec": "wwwroot\\fonts\\Unique Light_MRT.ttf"
     },
     {
       "Identity": "F:\\Projects\\salian_project\\wwwroot\\image\\logo.png",

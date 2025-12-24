@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("salian_project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84c1aa90f03ddf270a82e6c2ba157e9f75c2651f")]
 [assembly: System.Reflection.AssemblyProductAttribute("salian_project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("salian_project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

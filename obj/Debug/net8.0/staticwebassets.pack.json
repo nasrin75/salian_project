@@ -153,12 +153,8 @@
       "PackagePath": "staticwebassets\\fonts\\BZiba.ttf"
     },
     {
-      "Id": "F:\\Projects\\salian_project\\wwwroot\\fonts\\Serif_MRT.ttf",
-      "PackagePath": "staticwebassets\\fonts\\Serif_MRT.ttf"
-    },
-    {
-      "Id": "F:\\Projects\\salian_project\\wwwroot\\fonts\\Talat_MRT.ttf",
-      "PackagePath": "staticwebassets\\fonts\\Talat_MRT.ttf"
+      "Id": "F:\\Projects\\salian_project\\wwwroot\\fonts\\Unique Light_MRT.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Unique Light_MRT.ttf"
     },
     {
       "Id": "F:\\Projects\\salian_project\\wwwroot\\fonts\\feather.eot",
