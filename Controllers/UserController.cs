@@ -8,9 +8,25 @@ namespace salian_project.Controllers
         {
             return View() ;
         }
+        
+        [HttpGet]
         public IActionResult Create()
         {
-            return View();
+            var user = new User();
+            return View(user);
+        }
+
+        [HttpPost]
+        public IActionResult Create(User user)
+        {
+            if (!ModelState.IsValid)
+            {
+              ViewBag.error = "اطلاعات وارد شده صحیح نمی باشد.";
+              return View(user);
+            } 
+
+            ViewBag.success = "کاربر با موفقیت افزوده شد. ";
+            return View(user);
         }
     }
 }
